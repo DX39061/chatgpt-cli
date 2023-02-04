@@ -3,7 +3,7 @@ source code from https://github.com/slithery0/gpt-chatbot-cli
 
 a simplified version only reserves "Q&A" preset, which is enough for daily use.
 
-# Install
+## Install
 Firstly, recomand to create a python virtual environment using [venv](https://docs.python.org/3/library/venv.html) or [VirtualFish](https://virtualfish.readthedocs.io/en/latest/)(for fish shell) or something else.
 
 Then install python dependencies.
@@ -22,5 +22,5 @@ Finally, you can copy the script to `/usr/bin` directory.
 ```
 sudo cp ./chatgpt-cli.py /usr/bin/chatgpt-cli
 ```
-# Useage
+## Useage
 just run `chatgpt-cli` command and start your journey.
