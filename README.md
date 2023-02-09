@@ -22,5 +22,5 @@ Finally, you can copy the script to `/usr/bin` directory.
 ```
 sudo cp ./chatgpt-cli.py /usr/bin/chatgpt-cli
 ```
-## Useage
+## Usage
 just run `chatgpt-cli` command and start your journey.
